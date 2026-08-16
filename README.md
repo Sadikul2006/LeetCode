@@ -76,3 +76,15 @@
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Sadikul2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Sadikul2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
+<!---LeetCode Topics End-->
