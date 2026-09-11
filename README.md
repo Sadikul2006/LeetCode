@@ -107,4 +107,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Sadikul2006/LeetCode/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Sadikul2006/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
