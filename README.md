@@ -83,8 +83,21 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Sadikul2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Sadikul2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
