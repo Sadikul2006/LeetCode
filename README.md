@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Sadikul2006/LeetCode/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sadikul2006/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Pigeonhole Principle
 |  |
