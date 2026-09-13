@@ -19,7 +19,7 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Sadikul2006?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
