@@ -84,6 +84,7 @@
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Sadikul2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0485-max-consecutive-ones](https://github.com/Sadikul2006/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Sadikul2006/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Sadikul2006/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sadikul2006/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -118,4 +120,12 @@
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sadikul2006/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
