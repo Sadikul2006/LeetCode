@@ -92,6 +92,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Sadikul2006/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Sadikul2006/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Sadikul2006/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sadikul2006/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
@@ -120,6 +121,7 @@
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sadikul2006/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Sadikul2006/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
 |  |
 | ------- |
