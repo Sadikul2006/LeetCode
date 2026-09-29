@@ -95,6 +95,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3895-count-digit-appearances](https://github.com/Sadikul2006/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sadikul2006/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sadikul2006/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
@@ -135,6 +136,7 @@
 | [0836-rectangle-overlap](https://github.com/Sadikul2006/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sadikul2006/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3895-count-digit-appearances](https://github.com/Sadikul2006/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Pigeonhole Principle
 |  |
 | ------- |
