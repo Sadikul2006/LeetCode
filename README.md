@@ -24,11 +24,19 @@
 
 ---
 
-## 🛠 Languages
+## 🏆 LeetCode Badges
 
-<p align="center">
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" width="130">
+  <img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="130">
+  <img src="https://leetcode.com/static/images/badges/dcc-2026-2.png" width="130">
+</div>
+
+---
+## 🛠 Languages
+<div class="flex items-center justify-center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,git,vscode" />
-</p>
+</div>
 
 ---
 
