@@ -111,6 +111,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sadikul2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
@@ -183,6 +184,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sadikul2006/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -201,6 +203,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
