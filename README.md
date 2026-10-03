@@ -98,6 +98,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sadikul2006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sadikul2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sadikul2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sadikul2006/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sadikul2006/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Sadikul2006/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -154,6 +155,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sadikul2006/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sadikul2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sadikul2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sadikul2006/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sadikul2006/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sadikul2006/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3099-harshad-number](https://github.com/Sadikul2006/LeetCode/tree/master/3099-harshad-number) |
