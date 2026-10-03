@@ -105,6 +105,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sadikul2006/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sadikul2006/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sadikul2006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Sadikul2006/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sadikul2006/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -156,6 +157,7 @@
 | [3099-harshad-number](https://github.com/Sadikul2006/LeetCode/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sadikul2006/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sadikul2006/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sadikul2006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/Sadikul2006/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Sadikul2006/LeetCode/tree/master/3895-count-digit-appearances) |
