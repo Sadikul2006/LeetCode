@@ -160,6 +160,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sadikul2006/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sadikul2006/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sadikul2006/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/Sadikul2006/LeetCode/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sadikul2006/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -207,6 +208,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Sadikul2006/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3894-traffic-signal-color](https://github.com/Sadikul2006/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Sadikul2006/LeetCode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Trie
@@ -238,4 +240,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sadikul2006/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
