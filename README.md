@@ -165,6 +165,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sadikul2006/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sadikul2006/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sadikul2006/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/Sadikul2006/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sadikul2006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/Sadikul2006/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -209,6 +210,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sadikul2006/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3894-traffic-signal-color](https://github.com/Sadikul2006/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Sadikul2006/LeetCode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Trie
@@ -241,4 +243,12 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sadikul2006/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sadikul2006/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sadikul2006/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 <!---LeetCode Topics End-->
