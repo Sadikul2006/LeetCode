@@ -143,6 +143,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Sadikul2006/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Sadikul2006/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Sadikul2006/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/Sadikul2006/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sadikul2006/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/Sadikul2006/LeetCode/tree/master/3959-check-good-integer) |
@@ -165,6 +166,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sadikul2006/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Sadikul2006/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sadikul2006/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sadikul2006/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/Sadikul2006/LeetCode/tree/master/3870-count-commas-in-range) |
