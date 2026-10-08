@@ -159,6 +159,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Sadikul2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sadikul2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sadikul2006/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sadikul2006/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sadikul2006/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Sadikul2006/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
@@ -260,5 +261,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sadikul2006/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 <!---LeetCode Topics End-->
