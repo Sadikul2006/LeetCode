@@ -207,6 +207,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sadikul2006/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sadikul2006/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String
 |  |
@@ -219,6 +220,7 @@
 | [0856-score-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sadikul2006/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sadikul2006/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -246,6 +248,7 @@
 | [0856-score-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sadikul2006/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
@@ -255,6 +258,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sadikul2006/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sadikul2006/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
