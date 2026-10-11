@@ -167,6 +167,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sadikul2006/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sadikul2006/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2544-alternating-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Sadikul2006/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sadikul2006/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
