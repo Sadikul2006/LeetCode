@@ -104,6 +104,7 @@
 | [1470-shuffle-the-array](https://github.com/Sadikul2006/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Sadikul2006/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sadikul2006/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sadikul2006/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sadikul2006/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -136,6 +137,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sadikul2006/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
