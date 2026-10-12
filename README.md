@@ -164,6 +164,7 @@
 | [0070-climbing-stairs](https://github.com/Sadikul2006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sadikul2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Sadikul2006/LeetCode/tree/master/0263-ugly-number) |
+| [0492-construct-the-rectangle](https://github.com/Sadikul2006/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Sadikul2006/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/Sadikul2006/LeetCode/tree/master/0908-smallest-range-i) |
