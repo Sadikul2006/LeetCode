@@ -111,6 +111,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sadikul2006/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sadikul2006/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sadikul2006/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sadikul2006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Sadikul2006/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -210,6 +211,7 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2578-split-with-minimum-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2578-split-with-minimum-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sadikul2006/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sadikul2006/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2578-split-with-minimum-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sadikul2006/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
