@@ -97,6 +97,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sadikul2006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0908-smallest-range-i](https://github.com/Sadikul2006/LeetCode/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sadikul2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sadikul2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Sadikul2006/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -170,6 +171,7 @@
 | [0728-self-dividing-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Sadikul2006/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/Sadikul2006/LeetCode/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sadikul2006/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sadikul2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sadikul2006/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -209,6 +211,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2578-split-with-minimum-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sadikul2006/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -285,6 +288,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sadikul2006/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sadikul2006/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2578-split-with-minimum-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -302,4 +306,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sadikul2006/LeetCode/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
