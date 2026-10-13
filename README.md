@@ -105,6 +105,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Sadikul2006/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Sadikul2006/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Sadikul2006/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sadikul2006/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sadikul2006/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Sadikul2006/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -182,6 +183,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/Sadikul2006/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sadikul2006/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sadikul2006/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2544-alternating-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2578-split-with-minimum-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Sadikul2006/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
