@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sadikul2006/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/Sadikul2006/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sadikul2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sadikul2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -170,6 +171,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sadikul2006/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Sadikul2006/LeetCode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Sadikul2006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sadikul2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -281,6 +283,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sadikul2006/LeetCode/tree/master/0048-rotate-image) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sadikul2006/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bracket Sequences
 |  |
