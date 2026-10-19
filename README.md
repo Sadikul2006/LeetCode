@@ -106,6 +106,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Sadikul2006/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Sadikul2006/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Sadikul2006/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sadikul2006/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sadikul2006/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sadikul2006/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sadikul2006/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2578-split-with-minimum-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sadikul2006/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -353,4 +355,8 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sadikul2006/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sadikul2006/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
