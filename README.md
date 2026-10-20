@@ -192,6 +192,7 @@
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sadikul2006/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1399-count-largest-group](https://github.com/Sadikul2006/LeetCode/tree/master/1399-count-largest-group) |
 | [1486-xor-operation-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Sadikul2006/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sadikul2006/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sadikul2006/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sadikul2006/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
