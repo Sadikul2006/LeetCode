@@ -106,6 +106,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Sadikul2006/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Sadikul2006/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sadikul2006/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sadikul2006/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/Sadikul2006/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sadikul2006/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sadikul2006/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -144,6 +145,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sadikul2006/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/Sadikul2006/LeetCode/tree/master/1399-count-largest-group) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sadikul2006/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sadikul2006/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -246,6 +248,7 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/Sadikul2006/LeetCode/tree/master/1399-count-largest-group) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sadikul2006/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sadikul2006/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Geometry
 |  |
@@ -279,6 +282,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sadikul2006/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sadikul2006/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sadikul2006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sadikul2006/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3894-traffic-signal-color](https://github.com/Sadikul2006/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -332,6 +336,7 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sadikul2006/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sadikul2006/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Memoization
 |  |
