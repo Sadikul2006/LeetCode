@@ -97,6 +97,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sadikul2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sadikul2006/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0636-exclusive-time-of-functions](https://github.com/Sadikul2006/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0908-smallest-range-i](https://github.com/Sadikul2006/LeetCode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sadikul2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -261,6 +262,7 @@
 | [0020-valid-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sadikul2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/Sadikul2006/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Sadikul2006/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Sadikul2006/LeetCode/tree/master/1021-remove-outermost-parentheses) |
