@@ -138,6 +138,7 @@
 | [0118-pascals-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sadikul2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sadikul2006/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Sadikul2006/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sadikul2006/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
@@ -200,6 +201,7 @@
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Sadikul2006/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sadikul2006/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sadikul2006/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Sadikul2006/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sadikul2006/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sadikul2006/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -376,4 +378,8 @@
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sadikul2006/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Sadikul2006/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
