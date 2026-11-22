@@ -98,6 +98,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sadikul2006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Sadikul2006/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0812-largest-triangle-area](https://github.com/Sadikul2006/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sadikul2006/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sadikul2006/LeetCode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -189,6 +190,7 @@
 | [0263-ugly-number](https://github.com/Sadikul2006/LeetCode/tree/master/0263-ugly-number) |
 | [0492-construct-the-rectangle](https://github.com/Sadikul2006/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/Sadikul2006/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Sadikul2006/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sadikul2006/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sadikul2006/LeetCode/tree/master/0908-smallest-range-i) |
@@ -258,6 +260,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Sadikul2006/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Sadikul2006/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sadikul2006/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sadikul2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -358,6 +361,7 @@
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Sadikul2006/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Binary Indexed Tree
 |  |
