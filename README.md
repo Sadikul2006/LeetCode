@@ -98,6 +98,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sadikul2006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Sadikul2006/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sadikul2006/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sadikul2006/LeetCode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sadikul2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -189,6 +190,7 @@
 | [0492-construct-the-rectangle](https://github.com/Sadikul2006/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Sadikul2006/LeetCode/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sadikul2006/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sadikul2006/LeetCode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sadikul2006/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sadikul2006/LeetCode/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sadikul2006/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sadikul2006/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Stack
 |  |
@@ -304,6 +307,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sadikul2006/LeetCode/tree/master/0048-rotate-image) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Sadikul2006/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sadikul2006/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bracket Sequences
 |  |
