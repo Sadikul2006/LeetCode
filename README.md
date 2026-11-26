@@ -177,6 +177,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Sadikul2006/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/Sadikul2006/LeetCode/tree/master/3360-stone-removal-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sadikul2006/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/Sadikul2006/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sadikul2006/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -223,6 +224,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sadikul2006/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Sadikul2006/LeetCode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sadikul2006/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/Sadikul2006/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sadikul2006/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sadikul2006/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sadikul2006/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
