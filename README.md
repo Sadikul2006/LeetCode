@@ -358,6 +358,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Sadikul2006/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sadikul2006/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sadikul2006/LeetCode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -415,4 +416,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Sadikul2006/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Sadikul2006/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
