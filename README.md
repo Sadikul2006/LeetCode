@@ -94,6 +94,7 @@
 | [0048-rotate-image](https://github.com/Sadikul2006/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sadikul2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Sadikul2006/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Sadikul2006/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sadikul2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -358,6 +359,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sadikul2006/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sadikul2006/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sadikul2006/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
