@@ -94,6 +94,7 @@
 | [0048-rotate-image](https://github.com/Sadikul2006/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Sadikul2006/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sadikul2006/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Sadikul2006/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sadikul2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sadikul2006/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -146,6 +147,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Sadikul2006/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sadikul2006/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sadikul2006/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sadikul2006/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -189,6 +191,7 @@
 | [0048-rotate-image](https://github.com/Sadikul2006/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Sadikul2006/LeetCode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Sadikul2006/LeetCode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Sadikul2006/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sadikul2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Sadikul2006/LeetCode/tree/master/0263-ugly-number) |
 | [0492-construct-the-rectangle](https://github.com/Sadikul2006/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -265,6 +268,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Sadikul2006/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/Sadikul2006/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Sadikul2006/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sadikul2006/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -401,4 +405,12 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sadikul2006/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Sadikul2006/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Sadikul2006/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
